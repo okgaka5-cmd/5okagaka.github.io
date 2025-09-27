@@ -1,0 +1,18 @@
+!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>เว็บแรกของฉัน</title>
+</head>
+<body>
+  <h1>สวัสดี เราชื่อ spy</h1>
+  <p>นี่คือเว็บที่ผมจะได้สิ่งที่ผมต้องการ</p>
+  <p>ทั้งคืน💀</p>
+
+  <!-- ลิงก์ไปยังเว็บไซต์ -->
+  <a href="https://www.instagram.com/yaioxz/">ไปที่ Google</a>
+
+  <!-- แทรกรูปภาพ -->
+  <br><br>
+  <img src="https://static.beebom.com/wp-content/uploads/2025/08/Evernight-Kit-HSR.jpg" alt="รูปตัวอย่าง">
+</html>
